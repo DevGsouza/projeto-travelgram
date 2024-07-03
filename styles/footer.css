@@ -1,0 +1,18 @@
+footer {
+  font: var(--paragraph-regular);
+
+  display: flex;
+  justify-content: space-between;
+
+  padding-block: 2.4rem;
+}
+
+footer ul {
+  display: flex;
+  list-style: none;
+  gap: 2.8rem;
+}
+
+footer a {
+  text-decoration: none;
+}

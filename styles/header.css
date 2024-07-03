@@ -1,0 +1,53 @@
+header {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+  padding-block: 3.2rem;
+}
+
+header > img:nth-child(1) {
+  width: 17.6rem;
+  height: 17.6rem;
+
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+#profile{
+  display: flex;
+  gap: 3.2rem;
+}
+
+#profile div{
+  width: 38.4rem;
+}
+
+#profile h1 {
+  font: var(--heading);
+  color: var(--text-primary);
+  margin-bottom: .8rem;
+}
+
+#profile p {
+  font: var(--paragraph-regular);
+}
+
+#infos {
+  width: 28rem;
+  font: var(--paragraph-regular);
+  
+}
+
+#infos ul {
+  list-style: none;
+}
+
+#infos ul li {
+  display: flex;
+  gap: .8rem;
+}
+
+#infos ul li+li {
+  margin-top: 1.6rem;
+}
