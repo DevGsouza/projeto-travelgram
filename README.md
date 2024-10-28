@@ -1,8 +1,3 @@
-<style>
-  h1 {
-    color: orange;
-</style>
-
 <strong><h1 align="center">Travelgram</h1></strong>
 
 <p align="center">
