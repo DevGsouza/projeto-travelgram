@@ -6,7 +6,7 @@
 
 ## 🚀 Descrição
 
-<p>Projeto de site de rede social para postagem de fotos de viagens.</p>
+<p>Projeto de site de rede social de viagens.</p>
 
 ## 🚀 Tecnologias
 
