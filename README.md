@@ -1,12 +1,12 @@
 <strong><h1 align="center">Travelgram</h1></strong>
 
 <p align="center">
-  <img alt="" src="printpage.jpeg" width="100%">
+  <img alt="" src="travelgram.png" width="100%">
 </p>
 
 ## 🚀 Descrição
 
-<p>Nesse projeto foi desenvolvido um Formulário de matrícula para uma escola de educação infantil.</p>
+<p>Nesse projeto foi desenvolvido uma página de rede social de viagens.</p>
 
 ## 🚀 Tecnologias
 
